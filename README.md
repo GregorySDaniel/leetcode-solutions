@@ -1,10 +1,9 @@
 # LeetCode Solutions
 
-This repository contains my solutions to LeetCode problems, implemented in JavaScript. It’s a way to improve my problem-solving skills and my understanding of algorithms and data structures.
+Solutions to LeetCode problems in JavaScript and Dart. I'm using this repo to improve my logic and keep track of what I’ve solved.
 
-The file names correspond to the problem titles on LeetCode.
+File names follow the problem titles.
 
 ---
 
-New solutions will be added as I progress on LeetCode.
-You can also check out my LeetCode profile [here](https://leetcode.com/u/8F6lCsVFPC/).
+[My profile](https://leetcode.com/u/8F6lCsVFPC/).
